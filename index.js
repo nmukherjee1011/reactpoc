@@ -5,6 +5,7 @@ function MainComponent() {
             <ul>
                 <li>First Component</li>
                 <li>Second Component</li>
+                <li>Third Component</li>
             </ul>
         </nav>
     )
